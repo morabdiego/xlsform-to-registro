@@ -41,9 +41,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/morabdiego/xlsform-to-registro"
-Repository = "https://github.com/morabdiego/xlsform-to-registro.git"
-Issues = "https://github.com/morabdiego/xlsform-to-registro/issues"
+Homepage = "https://github.com/morabdiego/xlsform_to_registro"
+Repository = "https://github.com/morabdiego/xlsform_to_registro.git"
+Issues = "https://github.com/morabdiego/xlsform_to_registro/issues"
 
 [project.scripts]
 xlsform-to-registro = "xlsform_to_registro.cli:main"
